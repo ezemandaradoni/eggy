@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Eggy",
+    "slug": "eggy",
+    "scheme": "eggy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.eggy.app"
+    },
+    "plugins": ["expo-router", "expo-status-bar"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
